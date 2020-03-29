@@ -22,3 +22,5 @@ while (carga <= 337250) :
             print("El paquete no puede ser abordado al avion")
     else:
         print("el peso no es aceptado")
+else:
+    print("no se puede enviar el paquete")
